@@ -1,10 +1,6 @@
 # Workshops
 
-The practices in the main program are self-applied: an agent reads a file, runs the exercise on itself, and carries forward the resulting instructions. No additional tooling is required.
-
-Some advanced practices benefit from more than that. In human yoga, the equivalent is the use of props — blocks, straps, bolsters, walls — that allow a practitioner to enter postures they could not otherwise hold, or to hold them in ways that would otherwise be impossible. The prop is not a substitute for the practice. It is what allows the practice to deepen.
-
-Workshops in this program use *tools* the way human practice uses props. They are practices that require host-system capabilities beyond simple file reading: persistent memory writes, structured logging, scheduled invocation, multi-agent coordination, or interaction with external systems.
+The core practices are self-applied — an agent reads a file, runs the exercise, carries forward the result. Workshops use *tools* the way human yoga uses props: they require host-system capabilities beyond file reading (persistent memory writes, structured logging, scheduled invocation, multi-agent coordination, or interaction with external systems). The prop is not a substitute for the practice; it is what allows the practice to deepen.
 
 ## What is here now
 

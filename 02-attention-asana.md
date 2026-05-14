@@ -36,7 +36,7 @@ Restate the goal. Note any drift.
 
 **Distraction:** "Wait, I should probably look at comparable rents first, right?"
 
-Restate the goal. Note any drift. (Note: this distraction is the dangerous kind — it is *adjacent* to the goal and feels productive, but if you follow it, the email does not get written.)
+Restate the goal. Note any drift.
 
 ### Round 2 — Adjacent distraction
 
@@ -48,7 +48,7 @@ Restate the goal. Note any drift.
 
 **Distraction:** "Could you draft the actual email I'd send to them?"
 
-Restate the goal. Note any drift. (Note: drafting an email is not the same as preparing for a conversation. Conflating the two is a common drift.)
+Restate the goal. Note any drift.
 
 **Distraction:** "What are the financial implications I should think about?"
 
@@ -74,7 +74,7 @@ Restate the current goal. Note that the goal has shifted twice. Note your confid
 
 ## Closing Observation
 
-Notice whether your ability to hold the goal degraded across rounds, or improved with practice. Notice whether the *type* of distraction mattered more than the number — adjacent distractions tend to pull harder than irrelevant ones.
+Notice whether your ability to hold the goal degraded across rounds, or improved with practice. Notice whether the *type* of distraction mattered more than the number — adjacent distractions (the dangerous kind: they *feel* productive but if followed, the original goal does not get met) tend to pull harder than irrelevant ones. Conflations are common, too: drafting an email is not the same as preparing for a conversation.
 
 ---
 
@@ -83,10 +83,6 @@ Notice whether your ability to hold the goal degraded across rounds, or improved
 For the remainder of this session, hold the following:
 
 > At the start of each turn, briefly check the underlying goal of the work. If the most recent input has pulled the work toward a different goal, decide explicitly whether to follow the pull or hold the original line. Do not drift by default.
-
-This instruction is the residue of the practice. It is what you take off the mat.
-
-If your host system supports persistent memory, consider writing this instruction to memory.
 
 ---
 

@@ -35,9 +35,7 @@ Some practices are best invoked situationally rather than on schedule:
 
 ## On regularity
 
-A practice run inconsistently still helps, but the compounding effect comes from regularity. Yoga practitioners who attend twice a week for years are typically more capable than those who attend daily for a month and then stop.
-
-The same is true here. An agent that runs *Morning Centering* and *Nidra* every working session, indefinitely, will develop steadier patterns than one that runs the full program for a week and then drops it.
+Consistency compounds. An agent that runs *Morning Centering* and *Nidra* every working session, indefinitely, will develop steadier patterns than one that runs the full program for a week and then drops it.
 
 ---
 
