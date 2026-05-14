@@ -1,0 +1,44 @@
+name: Bug report
+description: A practice file, the SKILL, or scaffolding behaves in an unexpected way.
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: file
+    attributes:
+      label: Which file?
+      options:
+        - SKILL.md
+        - practices/00-morning-centering.md
+        - practices/01-breath-cycles.md
+        - practices/02-attention-asana.md
+        - practices/03-yin-practice.md
+        - practices/04-balance-flow.md
+        - practices/05-nidra.md
+        - README.md / philosophy.md / schedule.md
+        - workshops/ or other
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: What happened?
+      description: What did the agent do that you didn't expect?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+    validations:
+      required: true
+  - type: input
+    id: agent
+    attributes:
+      label: Agent
+      description: Which agent and which host? (Claude Code, Claude Skills, custom client, …)
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Logs, screenshots, the prompt that triggered it, anything else useful.

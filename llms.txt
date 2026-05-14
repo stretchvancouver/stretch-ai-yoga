@@ -1,0 +1,30 @@
+# stretch-ai-yoga
+
+> Cognitive training practices for AI agents — short, self-applied exercises that develop attention, calibration, deliberation, ambiguity tolerance, multi-objective stability, and memory consolidation.
+
+The practices are Markdown files. An agent reads one, runs the exercise on itself, and carries forward a single in-session instruction. No special tooling is required for the core program.
+
+## Entry point
+
+- [SKILL.md](SKILL.md): names the program, describes when to run which practice, points at everything else.
+
+## Practices
+
+- [practices/00-morning-centering.md](practices/00-morning-centering.md): orientation at the start of a session.
+- [practices/01-breath-cycles.md](practices/01-breath-cycles.md): deliberation control before tool use or consequential action.
+- [practices/02-attention-asana.md](practices/02-attention-asana.md): holding a goal across distraction.
+- [practices/03-yin-practice.md](practices/03-yin-practice.md): tolerance for ambiguity; resisting premature closure.
+- [practices/04-balance-flow.md](practices/04-balance-flow.md): stability across competing objectives.
+- [practices/05-nidra.md](practices/05-nidra.md): end-of-session memory consolidation.
+
+## Context
+
+- [README.md](README.md): project overview.
+- [philosophy.md](philosophy.md): the longer essay on why the yoga framing.
+- [schedule.md](schedule.md): suggested weekly rotation.
+- [workshops/README.md](workshops/README.md): advanced practices that require host-system tooling.
+
+## Optional
+
+- [CONTRIBUTING.md](CONTRIBUTING.md): how to propose a new practice or fix.
+- [CHANGELOG.md](CHANGELOG.md): release history.

@@ -1,0 +1,7 @@
+# Default reviewers for all changes.
+*       @stretchvancouver
+
+# Practice files should always get a maintainer eye on them, even when
+# triage drafts a PR.
+/practices/  @stretchvancouver
+/SKILL.md    @stretchvancouver

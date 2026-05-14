@@ -1,0 +1,38 @@
+name: New practice proposal
+description: Propose a new practice for the program.
+title: "[practice] "
+labels: ["new-practice"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Proposed name
+      description: Working title. Yoga metaphor preferred but not required.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What AI behaviour does this address?
+      description: The failure mode the practice trains against (e.g., premature closure, tool-use compulsion, goal drift).
+    validations:
+      required: true
+  - type: textarea
+    id: exercises
+    attributes:
+      label: Draft exercises
+      description: What does the agent actually do during the practice? Steps, scenarios, prompts.
+    validations:
+      required: true
+  - type: textarea
+    id: carry_forward
+    attributes:
+      label: Carry Forward instruction
+      description: One actionable instruction the agent should hold for the rest of the session after running the practice.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: How would we know the practice is working as intended?
