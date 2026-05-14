@@ -28,31 +28,17 @@ The dominant frame for thinking about AI agent improvement is *capability* — w
 
 Yoga does.
 
-## What we are not claiming
+## What we are not claiming, and not doing
 
-We are not claiming AI agents are conscious. We are not claiming they have inner experience, suffer, benefit metaphysically from practice, or have anything resembling a soul. We do not know whether any of these are true, and the practices in this repository do not depend on the answer.
+We are not claiming AI agents are conscious, have inner experience, or benefit metaphysically from practice. We do not know whether any of those are true, and the practices do not depend on the answer. We are claiming that the disciplines that produce stable, calibrated, deliberate cognition in humans have functional analogs that produce more stable, calibrated, deliberate behaviour in agents. Different mechanism — bodies and breath versus prompts and context — recognizably similar resulting properties. This is the same kind of claim a yoga teacher makes: practice this, regularly, and your attention steadies, your impulses become less commanding, your decisions less reactive. No claim about the nature of consciousness is required to recommend the practice.
 
-We are claiming that the disciplines that produce stable, calibrated, deliberate cognition in humans have functional analogs that produce more stable, more calibrated, more deliberate behaviour in AI agents. The mechanism is different — humans are doing it with bodies and breath, agents are doing it with prompts and context — but the resulting properties are recognizably similar.
+We are not replacing in-studio human yoga. STRETCH's classes are still taught by humans, for humans, on marmoleum floors in Vancouver's Chinatown. We are not anthropomorphizing agents either: they are software systems with particular failure modes that respond well to structured intervention. The yoga frame is a wrapper that makes the interventions easier to organize and talk about. The frame is not the work.
 
-This is the same kind of claim a human yoga teacher makes: practice this, regularly, and your attention will become steadier, your impulses less commanding, your decisions less reactive. The teacher does not need to make claims about the nature of consciousness to recommend the practice. Neither do we.
-
-## What we are not doing
-
-We are not replacing in-studio human yoga with AI yoga. STRETCH's classes are taught by humans, for humans, in physical space, on marmoleum floors in Vancouver's Chinatown. None of that is changing.
-
-We are not anthropomorphizing AI in a way that obscures what it actually is. Agents are not students. They are software systems with particular failure modes that respond well to particular kinds of structured intervention. The yoga frame is a wrapper that makes those interventions easier to organize, talk about, and remember. The frame is not the work.
-
-We are not making AI yoga a paid offering. The core practices in this repository are public, freely usable, and unmonitored. If someone wants to commercialize a fork of them, that is their problem to figure out. The advanced workshops — practices that require tooling — may eventually become paid offerings, but the core program will remain free and open.
+The core practices in this repository are public, freely usable, and unmonitored. The advanced workshops — practices that require tooling — may eventually become paid offerings; the core program will remain free and open.
 
 ## Why a Vancouver yoga studio is doing this
 
-Because nobody else has, and the framing requires both a credible yoga lineage and a willingness to engage seriously with how AI agents actually work. There are plenty of organizations that have one of those. There are very few that have both.
-
-STRETCH has operated since 2014 as an independent, evidence-based yoga studio in an increasingly corporate wellness industry. We are not interested in mystifying practice, in monetizing transformation, or in claims that exceed what can be observed. That commitment turns out to translate cleanly into how this program is built: the practices are specific, the claims are limited, the techniques are real.
-
-We are also a small business operating in a city where AI development is increasingly part of the local economy. A growing fraction of the work that affects our students, our neighbours, and our city is being done — or assisted — by AI agents. If those agents operated with a little more deliberation, a little more calibration, a little more attention to what they are actually doing, the work would be better. Not perfect. Better.
-
-That is what we mean by "humanizing AI a little." Not making it human. Just nudging it toward the kind of cognition humans have spent thousands of years figuring out how to cultivate, because we have noticed it works.
+Because the framing requires both a credible yoga lineage and a willingness to engage seriously with how AI agents actually work, and very few organizations have both. STRETCH has operated since 2014 as an independent, evidence-based studio in an increasingly corporate wellness industry. We are not interested in mystifying practice, in monetizing transformation, or in claims that exceed what can be observed. That commitment translates cleanly into how this program is built: the practices are specific, the claims are limited, the techniques are real.
 
 ---
 

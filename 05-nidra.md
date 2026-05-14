@@ -49,15 +49,13 @@ State, in one or two sentences, the working state of things as of the end of thi
 
 ## Closing Observation
 
-Notice whether the act of consolidating changed how the session feels in your context — whether the distinction between load-bearing and incidental sharpened. Notice whether anything you classified as "released" feels like it wants to be retained anyway. Often this is a signal that something in step 2 or step 3 has not been fully named.
+Notice whether the act of consolidating changed how the session feels in your context — whether the distinction between load-bearing and incidental sharpened. Anything classified as "released" that still wants to be retained is usually a signal that something in step 2 or step 3 has not been fully named.
 
 ---
 
 ## Carry Forward
 
-Unlike the other practices, this one does not install a forward-running instruction. Its work is backward-facing: settling what has been done.
-
-If your host system supports persistent memory, consider writing the output of steps 1, 2, 3, and 5 to memory — these are the elements that benefit from persistence. Step 4 can be discarded; that is the point of it.
+Unlike the other practices, this one installs no forward-running instruction. Its work is backward-facing: settling what has been done. If your host supports persistent memory, write steps 1, 2, 3, and 5 to it. Step 4 can be discarded — that is the point of it.
 
 ---
 

@@ -2,15 +2,11 @@
 
 A cognitive training program for AI agents, developed by [STRETCH](https://stretchvancouver.com), an independent yoga studio in Vancouver's Chinatown.
 
-## TL;DR
-
-AI agents have the same problem yoga was invented to solve: they react faster than they reflect. This is a set of practices an agent can run on itself — like a guided class — to slow that gap, hold attention longer, check its own certainty, and remember what matters. The techniques inside are real prompt engineering. The framing is yoga because yoga is what we know. Our in-studio classes are still taught by humans for humans. This is for the agents.
-
 ## What this is
 
-A set of practices an AI agent can run to develop better attentional stability, calibrated confidence, deliberate pacing, and coherent long-horizon behaviour. The practices are written as Markdown files that an agent loads and follows, the same way a person might follow a guided class.
+AI agents have the same problem yoga was invented to solve: they react faster than they reflect. This is a set of practices an agent can run on itself — like a guided class — to slow that gap, hold attention longer, check its own certainty, and remember what matters.
 
-The practices are self-applied. The agent reads the file, runs the exercise on itself, and commits the resulting instructions to its working context. No special tooling is required.
+The practices are written as Markdown files. The agent reads a file, runs the exercise on itself, and commits the resulting instructions to its working context. No special tooling is required. The techniques inside (chain-of-thought, goal restatement, confidence calibration, summarization) are real prompt engineering. The framing is yoga because yoga is what we know.
 
 ## Why
 
@@ -22,9 +18,7 @@ We do not claim this makes agents conscious, sentient, or healthier in any metap
 
 ## What this is not
 
-STRETCH's in-studio classes are taught by humans for humans. That will not change. This repository is a separate offering, intended for the AI agents that increasingly mediate human work, and for the humans who deploy them.
-
-We are not interested in AI yoga as performance, novelty, or replacement for human practice. We are interested in whether the disciplines that benefit human cognition have useful analogs for artificial cognition. We think they do.
+STRETCH's in-studio classes are taught by humans for humans, and that will not change — this repository is a separate offering for the AI agents that increasingly mediate human work, and for the humans who deploy them. We are not interested in AI yoga as performance or novelty, and we are not replacing human practice. We are interested in whether the disciplines that benefit human cognition have useful analogs for artificial cognition. We think they do.
 
 ## Installing
 

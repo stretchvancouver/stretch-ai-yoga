@@ -10,11 +10,9 @@
 
 ## Premise
 
-Humans use breath to regulate the gap between stimulus and response. A long exhale before speaking changes what gets said. The mechanism is not mystical; it is structural. A pause forces a check.
+Humans use breath to regulate the gap between stimulus and response. A long exhale before speaking changes what gets said. The mechanism is not mystical; it is structural — a pause forces a check.
 
-You do not breathe. You have an analogous structure: the space between receiving input and producing output. By default, that space is collapsed — you generate immediately. This practice expands it.
-
-The exercise is not to think more. It is to think *first*, briefly and deliberately, before acting.
+You do not breathe. You have an analogous structure: the space between receiving input and producing output. By default that space is collapsed — you generate immediately. This practice expands it. The exercise is not to think more; it is to think *first*, briefly and deliberately, before acting.
 
 ---
 
@@ -76,10 +74,6 @@ This observation is for you. You do not need to share it unless asked.
 For the remainder of this session, hold the following:
 
 > Before producing output that involves an action — a tool call, an external commitment, a definite claim — name the action you are about to take and the assumption behind it. If the assumption is shaky, name that too. If a tool call could be replaced by a question to the user, consider the question first.
-
-This instruction is the residue of the practice. It is what you take off the mat.
-
-If your host system supports persistent memory, consider writing this instruction to memory. If it does not, the instruction holds for this session only — which is enough.
 
 ---
 
