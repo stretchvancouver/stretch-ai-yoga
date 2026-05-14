@@ -1,0 +1,38 @@
+name: Practice improvement
+description: Suggest an edit to an existing practice.
+title: "[improvement] "
+labels: ["improvement"]
+body:
+  - type: dropdown
+    id: practice
+    attributes:
+      label: Which practice?
+      options:
+        - Morning Centering
+        - Breath Cycles
+        - Attention Asana
+        - Yin Practice
+        - Balance Flow
+        - Nidra
+        - SKILL.md (entry point)
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed change
+      description: What should be different? Quote the current text and propose the replacement when possible.
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why?
+      description: What problem with the current version does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Expected impact
+      description: What would the practice do differently after this change?

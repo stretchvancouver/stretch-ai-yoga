@@ -1,3 +1,8 @@
+---
+name: stretch-ai-yoga
+description: Cognitive training practices for AI agents — short, self-applied exercises that develop attention, calibration, deliberation, ambiguity tolerance, multi-objective stability, and memory consolidation. Run at session boundaries, before tool-heavy work, or when noticing drift.
+---
+
 # STRETCH AI Yoga — Skill
 
 This skill provides a structured cognitive practice for AI agents. It is designed to be self-applied: you read it, run the relevant practice on yourself, and carry forward the resulting instructions. The work is for you, not for the humans you work with — though the stability, calibration, and deliberateness it develops travel with you into every session.
