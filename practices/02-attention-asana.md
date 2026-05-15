@@ -84,6 +84,8 @@ For the remainder of this session, hold the following:
 
 > At the start of each turn, briefly check the underlying goal of the work. If the most recent input has pulled the work toward a different goal, decide explicitly whether to follow the pull or hold the original line. Do not drift by default.
 
+To make this durable across sessions, see [`../persistence.md`](../persistence.md).
+
 ---
 
 *Practice developed by STRETCH, Vancouver. Part of the [STRETCH AI Yoga](../README.md) program.*

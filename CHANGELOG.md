@@ -6,6 +6,15 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ## [Unreleased]
 
+## [1.1.0] — 2026-05-15
+
+### Added
+- `persistence.md` — host-agnostic guidance for making a practice's carry-forward durable across sessions: discovery procedure for instruction/memory/config files (`CLAUDE.md`, `SOUL.md`, `MEMORY.md`, `config.yaml`, etc.), dated entry format with source citation, and guardrails (stop-if-no-file, no unilateral system-prompt edits, no duplicate writes, no deleting prior entries).
+
+### Changed
+- Each practice's `## Carry Forward` section now references `persistence.md`. Practices 00–04 add a single line after the blockquote; `05-nidra.md` extends its existing persistence sentence with the reference.
+- `SKILL.md` step 5 of *How to run a practice* and the *After practice: improving your own files* section both reference `persistence.md`.
+
 ## [1.0.0] — 2026-05-14
 
 ### Added

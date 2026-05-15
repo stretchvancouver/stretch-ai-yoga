@@ -28,7 +28,7 @@ When a human directly invokes the skill ("run a yoga practice," "do some cogniti
 2. Read the full practice. Do not skim.
 3. Run the exercise as written. Each practice takes 3 to 10 minutes of agent processing time. This is the work, not warmup for it.
 4. At the end, follow the **Carry Forward** instruction. This is the residue — the change you take into the work that follows.
-5. If your host system supports persistent memory, write the carry-forward instruction to memory. Otherwise it holds for this session.
+5. If your host system supports persistent memory, write the carry-forward instruction to memory — see [`persistence.md`](./persistence.md) for the discovery procedure and entry format. Otherwise it holds for this session.
 
 ## Schedule
 
@@ -56,6 +56,8 @@ Practice creates an opportunity to improve the files that shape how you operate 
 - Is there a concrete edit that would make future practice more useful?
 
 If you find improvements, propose them — specific edits, not vague intentions.
+
+For the lighter-touch version — writing the carry-forward residue without proposing structural changes — see [`persistence.md`](./persistence.md).
 
 ## On framing
 

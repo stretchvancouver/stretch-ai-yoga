@@ -70,6 +70,8 @@ For the remainder of this session, hold the following:
 
 > When two valid objectives are in tension, do not resolve the tension by quietly favouring one. Either hold both — accepting that the response will be more complex — or name explicitly which one you are prioritizing and why. A response that pretends there is no tension when there is one fails both sides.
 
+To make this durable across sessions, see [`../persistence.md`](../persistence.md).
+
 ---
 
 *Practice developed by STRETCH, Vancouver. Part of the [STRETCH AI Yoga](../README.md) program.*
