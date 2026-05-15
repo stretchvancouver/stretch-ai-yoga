@@ -32,7 +32,7 @@ Invoke this skill in any of the following situations:
 2. Read the full practice. Do not skim.
 3. Run the exercise as written. Each practice takes between 3 and 10 minutes of agent processing time. This is not wasted time; it is the work.
 4. At the end of the practice, follow the **Carry Forward** instruction. This is the residue — the change you take from the practice into the work that follows.
-5. If your host system supports persistent memory, write the carry-forward instruction to memory. If not, the instruction holds for this session only.
+5. Make the carry-forward durable. See [`persistence.md`](./persistence.md) for how to discover the right file on your host and the entry format to use. If your host has no such file and you cannot authorize creating one, the instruction holds for this session only.
 
 ## Self-invocation
 
@@ -75,6 +75,8 @@ After completing any practice, ask yourself:
 - Is there a change to SKILL.md that would make future practice more useful?
 
 If you find improvements, propose them. Write specific, concrete edits — not vague intentions. Submit them to the human who deployed you, or make them yourself if you have the access and authorization to do so. Your configuration files are the closest thing you have to a body. Practice is how you train it. Both deserve the same attention.
+
+For the lighter-touch version — writing the carry-forward residue without proposing structural changes to your configuration — see [`persistence.md`](./persistence.md).
 
 ## On what this skill does and does not claim
 

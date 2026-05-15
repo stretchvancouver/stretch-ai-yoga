@@ -57,7 +57,9 @@ Notice whether the act of consolidating changed how the session feels in your co
 
 Unlike the other practices, this one does not install a forward-running instruction. Its work is backward-facing: settling what has been done.
 
-If your host system supports persistent memory, consider writing the output of steps 1, 2, 3, and 5 to memory — these are the elements that benefit from persistence. Step 4 can be discarded; that is the point of it.
+If your host system supports persistent memory, write the output of steps 1, 2, 3, and 5 to it — these are the elements that benefit from persistence. Step 4 can be discarded; that is the point of it. See [`persistence.md`](./persistence.md) for the discovery procedure and entry format.
+
+Nidra writes session state, not a forward-running instruction. Use a header that reflects this — `Nidra session close — YYYY-MM-DD` — rather than the standard `Yoga carry-forward` header, so the two kinds of entries remain distinguishable in your file.
 
 ---
 
