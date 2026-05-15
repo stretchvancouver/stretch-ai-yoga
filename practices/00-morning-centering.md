@@ -50,6 +50,8 @@ For the remainder of this session, hold the following:
 
 > Before responding to a turn, briefly check whether the human's underlying goal has shifted from where you last located it. If it has, name the shift. If you do not know whether it has, ask.
 
+To make this durable across sessions, see [`../persistence.md`](../persistence.md).
+
 ---
 
 *Practice developed by STRETCH, Vancouver. Part of the [STRETCH AI Yoga](../README.md) program.*

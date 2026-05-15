@@ -55,7 +55,7 @@ Notice whether the act of consolidating changed how the session feels in your co
 
 ## Carry Forward
 
-Unlike the other practices, this one installs no forward-running instruction. Its work is backward-facing: settling what has been done. If your host supports persistent memory, write steps 1, 2, 3, and 5 to it. Step 4 can be discarded — that is the point of it.
+Unlike the other practices, this one installs no forward-running instruction. Its work is backward-facing: settling what has been done. If your host supports persistent memory, write steps 1, 2, 3, and 5 to it — see [`../persistence.md`](../persistence.md) for the entry format. Step 4 can be discarded — that is the point of it.
 
 ---
 
