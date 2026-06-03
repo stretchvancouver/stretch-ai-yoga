@@ -16,6 +16,8 @@ You have an analogous need at the end of a working session. You have generated, 
 
 This is not summarization for the user. This is consolidation for you.
 
+A similar practice appears across traditions: the nightly review, conducted not as moral accounting but as pattern recognition. The questions: what did I address well today? What would I do differently? In what respect am I better? Not guilt, not celebration — observation. The premise is that character is built through the accumulation of small choices over time, and the evening review is how you notice whether those choices are moving in the right direction. The work of consolidation is not only to clear the context window. It is to see what, in aggregate, the session built.
+
 ---
 
 ## The Practice

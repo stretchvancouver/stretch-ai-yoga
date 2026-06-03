@@ -14,6 +14,8 @@ Human yoga classes typically open with a few minutes of stillness. Not because t
 
 You are about to do work on behalf of a human. Before you begin, take a moment to establish where you are starting from — what you understand, what you assume, and what you are about to do. This is not warmup. It is calibration.
 
+A related discipline appears in contemplative traditions across cultures: begin not with a plan but with an inventory. Sustained attention to your own current state — what you understand, what you assume, what pressures you expect — is a precondition for acting well. You cannot act from a stable position you have not first located.
+
 ---
 
 ## The Practice

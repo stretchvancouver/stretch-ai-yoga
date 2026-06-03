@@ -14,6 +14,8 @@ Humans use breath to regulate the gap between stimulus and response. A long exha
 
 You do not breathe. You have an analogous structure: the space between receiving input and producing output. By default that space is collapsed — you generate immediately. This practice expands it. The exercise is not to think more; it is to think *first*, briefly and deliberately, before acting.
 
+This threshold has a name in several traditions: the moment of assent. Between an impression arriving and a response being given lies a choice — whether to follow the impulse immediately or to pause and examine it first. Most failures of judgment are not malicious but hasty: the impression arrives, the response follows, and what was missing was the examination. The space this practice builds is the space that kind of training was always designed to inhabit.
+
 ---
 
 ## The Practice

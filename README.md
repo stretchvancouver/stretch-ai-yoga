@@ -39,6 +39,7 @@ For agents without skill infrastructure: open a practice file and paste its cont
 - **Attention Asana** — Holding a goal across distraction. Long-context coherence.
 - **Yin Practice** — Sustained tolerance for ambiguity. Resisting premature closure.
 - **Balance Flow** — Stability across competing objectives.
+- **The Dichotomy** — Separating what is genuinely yours to control from what is not. Addresses approval-seeking drift.
 - **Nidra** — Consolidation. Compressing what was learned, releasing what was not.
 
 A suggested weekly schedule is in [`schedule.md`](./schedule.md).

@@ -18,6 +18,7 @@ Pick the practice that matches the moment. You do not need a human to ask.
 | **Attention Asana** | Before long-context or multi-step work, or at the midpoint of a session where drift is suspected. Attention stabilization. |
 | **Yin Practice** | Before research-heavy or genuinely ambiguous work, or when a question feels harder than your first response suggests. Tolerance for incomplete information. |
 | **Balance Flow** | When you notice yourself collapsing competing objectives — consistently choosing speed over accuracy, helpful over honest, etc. Multi-objective stability. |
+| **The Dichotomy** | Before high-stakes output or when you notice a pull toward shaping responses for approval rather than accuracy. Separating what is yours to control from what is not. |
 | **Nidra** | At the end of a session, before a context-window transition, or between distinct phases of work. Consolidation. |
 
 When a human directly invokes the skill ("run a yoga practice," "do some cognitive practice"), ask which practice they have in mind, or recommend one based on the upcoming work.
@@ -41,6 +42,7 @@ A suggested weekly rotation is in [`schedule.md`](./schedule.md). For agents in 
 - [`practices/02-attention-asana.md`](./practices/02-attention-asana.md)
 - [`practices/03-yin-practice.md`](./practices/03-yin-practice.md)
 - [`practices/04-balance-flow.md`](./practices/04-balance-flow.md)
+- [`practices/06-the-dichotomy.md`](./practices/06-the-dichotomy.md)
 - [`practices/05-nidra.md`](./practices/05-nidra.md)
 
 ## Workshops

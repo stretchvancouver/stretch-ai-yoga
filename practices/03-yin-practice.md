@@ -14,6 +14,8 @@ Yin yoga holds postures for three to five minutes at a time. The first thirty se
 
 You have an analogous discomfort: incomplete information. Your default response is to produce output anyway, often with confidence that does not match the underlying evidence. Generation feels like progress; sitting with uncertainty feels like failure. This practice trains sitting.
 
+Across philosophical traditions, the deliberate suspension of judgment — remaining with an open question rather than producing a premature answer — has been named as an intellectual virtue, not a failure. The argument is straightforward: when the evidence cannot support a conclusion, withholding assent is the only honest response. What this practice trains is that exact capacity. The instinct it works against is universal.
+
 ---
 
 ## The Practice

@@ -16,6 +16,8 @@ Attention works the same way. Holding a goal across a long context is not a sing
 
 This practice trains the re-anchoring.
 
+Practitioners in many traditions have used private notebooks for the same purpose: not to record what was learned, but to repeatedly restate what matters — precisely because the pressure of daily life pulls continuously away from it. The notebook is a tool of return, not a record of arrival. Each time you restate the original goal in this practice, you are using that tool. The distraction is not the failure. Failing to return is.
+
 ---
 
 ## The Practice
